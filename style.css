@@ -51,6 +51,9 @@ input, select {
 label {
   padding-bottom: 10px;
 }
+#gender, #course {
+  color: #000;
+}
 button {
   width: 90%;
   height: 30px;
