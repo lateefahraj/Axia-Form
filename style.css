@@ -8,6 +8,7 @@ body {
   /*background-image: url(images/cafe.jpg);*/
   color: #fff;
   font-family: calibri;
+  font-size: 14px;
 }
 header {
   text-align: center;
@@ -15,17 +16,17 @@ header {
 }
 h2 {
   font-family: sans-serif;
-  font-size: 24px;
+  font-size: 18px;
 }
 h4 {
   margin-top: 10px;
   font-family: tahoma;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 200;
 }
 form {
-  width: 400px;
-  height: 900px;
+  width: 250px;
+  height: 800px;
   background-color: #fff;
   color: #000;
   padding-top: 25px;
@@ -38,7 +39,7 @@ form {
   height: 30px;
 }
 div {
-  margin-left: 45px;
+  margin-left: 20px;
   margin-bottom: 5px;
 }
 input, select {
